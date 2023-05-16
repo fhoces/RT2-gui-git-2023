@@ -2,10 +2,11 @@
 title: "Git for Non-Programmers"
 author: "Fernando Hoces de la Guardia, BITSS"
 subtitle: "RT2 Training"
-date:  "`r format(as.Date('2023-05-18'), '%d %B %Y')`"
+date:  "`r format(as.Date('2023-05-18'), '%d %B %Y')` \\
+[Slides](https://fhoces.github.io/RT2-gui-git-2023/)"
 output: 
   xaringan::moon_reader:
-    footer: "These slides available at https://bitss.github.io/CEGA2022/"
+    footer: "These slides available at https://fhoces.github.io/RT2-gui-git-2023/"
     css: [default, metropolis, metropolis-fonts] 
     lib_dir: libs
     nature:
